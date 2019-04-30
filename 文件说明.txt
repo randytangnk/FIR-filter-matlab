@@ -1,0 +1,8 @@
+函数：
+pul_phas：产生1bit符号对应的GMSK波形
+gmsk_modul：用生成的GMSK波形调制数据
+LPF：低通滤波，用于下变频后滤波
+
+m文件：
+GMSK_Modem：GMSK调制解调，验证算法
+
